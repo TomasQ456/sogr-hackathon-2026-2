@@ -10,40 +10,6 @@
 
 Los enunciados están en [`enunciados/`](enunciados/).
 
-## Estructura
-
-```
-<prueba>/<ejercicio>/
-├── solucion.py     # tu código (plantilla de la página)
-├── ejemplo.txt     # entrada de ejemplo del enunciado
-├── esperado.txt    # salida esperada del ejemplo
-├── entrada.txt     # TU entrada oficial (pégala desde "Mi entrada")
-├── salida.txt      # se genera al correr la entrada oficial
-└── evidencias/     # pantallazos
-```
-
-## Avance
-
-### Google · `GOOGLE-03`
-
-| Ej. | Problema | Tema | Ejemplo | Oficial | Aceptado | Hora |
-|---|---|---|---|---|---|---|
-| A | d1000000 | Ordenamiento y voraz | Sí | Sí | Sí | 22:30 |
-| B | Moons and Umbrellas | Programación dinámica | Sí | Sí | Sí | 22:37 |
-| C | Parenting Partnering Returns | Intervalos y voraz | Sí | Sí | Sí | 22:38 |
-| D | Chain Reactions | Árboles y DFS | Sí | Sí | Sí | 22:39 |
-| E | Bathroom Stalls | Eficiencia con números enormes | Sí | Sí | Sí | 22:39 |
-
-### Anthropic · `ANTHROPIC-03`
-
-| Ej. | Problema | Tema | Ejemplo | Oficial | Aceptado | Hora |
-|---|---|---|---|---|---|---|
-| A | Respuesta en streaming | Streaming | Sí | Sí | Sí | 22:40 |
-| B | Uso de herramientas | Tool use | Sí | Sí | Sí | 22:40 |
-| C | Costos con caché de prompts | Prompt caching y precios | Sí | Sí | Sí | 22:41 |
-| D | Límites de velocidad | Rate limits | Sí | Sí | Sí | 22:41 |
-| E | Evaluación de respuestas | Evaluaciones calificadas con código | Sí | Sí | Sí | 22:42 |
-
 ## Evidencias
 
 Cada pantallazo muestra la terminal corriendo `./probar.sh`: con el ejemplo (comparado contra `esperado.txt`) y con la entrada oficial (guardada en `salida.txt`).
