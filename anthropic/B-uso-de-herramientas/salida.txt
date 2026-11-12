@@ -1,0 +1,24 @@
+tool_result toolu_01 26 °C
+tool_result toolu_02 84693
+tool_result toolu_03 error: operación desconocida: potencia
+tool_result toolu_04 1535
+tool_result toolu_05 error: ciudad desconocida: Tunja
+tool_result toolu_06 -82
+tool_result toolu_07 error: ciudad desconocida: Pasto
+tool_result toolu_08 24 °C
+tool_result toolu_09 878620
+tool_result toolu_10 error: ciudad desconocida: Pasto
+tool_result toolu_11 error: ciudad desconocida: Tunja
+tool_result toolu_12 1
+tool_result toolu_13 error: división por cero
+tool_result toolu_14 24 °C
+tool_result toolu_15 -101
+tool_result toolu_16 0
+tool_result toolu_17 826
+tool_result toolu_18 26 °C
+tool_result toolu_19 error: ciudad desconocida: Pasto
+tool_result toolu_20 0
+tool_result toolu_21 14 °C
+tool_result toolu_22 3
+final: Listo, revisé 22 resultados.
+resumen: 22 llamadas, 7 errores

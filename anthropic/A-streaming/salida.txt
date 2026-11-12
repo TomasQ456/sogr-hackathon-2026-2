@@ -1,0 +1,24 @@
+texto: datos despacio gracias servidor modelo
+stop_reason: end_turn
+input_tokens: 3327
+output_tokens: 64
+texto: lloverá compila compila el errores Bogotá compila mañana ¿listo? mañana
+stop_reason: end_turn
+input_tokens: 2799
+output_tokens: 255
+texto: ¡vamos! ¡vamos! ¡vamos! rápido está Bogotá mañana despacio café despacio el respuesta sin claude claude despacio servidor
+stop_reason: end_turn
+input_tokens: 3151
+output_tokens: 746
+texto: hola está calma sin prueba el sin código rápido responde tinto arepa prueba despacio arepa arepa calma el rápido
+stop_reason: end_turn
+input_tokens: 2271
+output_tokens: 751
+texto: Bogotá café lista código la responde ¿listo? lloverá tinto ¿listo? en ¡vamos!
+stop_reason: end_turn
+input_tokens: 3769
+output_tokens: 512
+texto: tinto errores ¿listo? errores lista en la ¡vamos! modelo está lista mañana servidor ¿listo? ¿listo? café Bogotá responde mañana
+stop_reason: end_turn
+input_tokens: 2259
+output_tokens: 58
